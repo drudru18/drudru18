@@ -56,6 +56,3 @@ Student in first year at the University of Louvain in Computer Science.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drudru18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### ✍️ Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
