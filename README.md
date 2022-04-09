@@ -49,11 +49,13 @@ Student in first year at the University of Louvain in Computer Science.
 
 ---
 
-### 🔥 My Stats:
+### 🔥 My Stats: <br>
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=drudru18 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drudru18&theme=onedark_duo&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD3F24&dates=DDDDDD&currStreakNum=1EFF00&currStreakLabel=1EFF00)](https://git.io/streak-stats)
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drudru18&theme=onedark_duo&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD3F24&dates=DDDDDD&currStreakNum=1EFF00&currStreakLabel=1EFF00)](https://git.io/streak-stats) &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drudru18&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drudru18&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drudru18&show_icons=true&theme=onedark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drudru18&show_icons=true&theme=onedark)
+</div>
 ---
