@@ -10,6 +10,8 @@
   </a>
 </div>
 <br>
+<div id="txt" align="center">
+  <p><em>Profile views</em></p>
 <div id="visits" align="center">
   <img src="https://komarev.com/ghpvc/?username=drudru18&style=flat-square&color=blue" alt=""/>
 </div>
