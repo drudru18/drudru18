@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="txt" align="center">
-  <p><em>FOLLOW ME !</em>:smile:</p>
+  <p><em>FOLLOW ME !</em> :smile:</p>
 </div>
 <div id="badges" align="center">
   <a href="https://www.twitter.com/realdrugd">
