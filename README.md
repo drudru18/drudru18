@@ -53,6 +53,8 @@ Student in first year at the University of Louvain in Computer Science.
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=drudru18 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drudru18&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD3F24&dates=DDDDDD&currStreakNum=1EFF00&currStreakLabel=1EFF00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drudru18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drudru18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drudru18)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
