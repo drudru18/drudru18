@@ -9,6 +9,9 @@
   <a href="https://twitter.com/realdrugd">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/realdrugd?label=Follow%20Me%20%21&style=social">
   </a>
+  <a href="https://www.reddit.com/user/Prestigious_Week_254">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/Prestigious_Week_254?label=Follow%20Me%20%21&style=social">
+  </a>
 </div>
 <br>
 <div id="txt" align="center">
