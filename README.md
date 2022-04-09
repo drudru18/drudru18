@@ -49,6 +49,7 @@ Student in first year at the University of Louvain in Computer Science.
 
 ---
 
-### My Stats:
+### 🔥 My Stats:
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=drudru18 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drudru18&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drudru18&theme=onedark_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD3F24&dates=DDDDDD&currStreakNum=1EFF00&currStreakLabel=1EFF00)](https://git.io/streak-stats)
+
