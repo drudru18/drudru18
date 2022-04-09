@@ -7,7 +7,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://img.shields.io/twitter/follow/realdrugd?style=social">
-    <!-- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/realdrugd?style=social"> 
   </a>
 </div>
 <br>
