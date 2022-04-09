@@ -6,7 +6,7 @@
   <p><em>FOLLOW ME !</em> 😉</p>
 </div>
 <div id="badges" align="center">
-  <a href="https://twitter.com/follow/realdrugd">
+  <a href="https://twitter.com/realdrugd">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/realdrugd?label=Follow%20Me%20%21&style=social">
   </a>
 </div>
