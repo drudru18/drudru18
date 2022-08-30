@@ -26,7 +26,7 @@
 ---
 
 ### 👨‍💻 About me: <br>
-Student in first year at the University of Louvain in Computer Science.
+Student in second year at the University of Louvain-la-Neuve in Computer Science.
 - 🎵 I make music when the time allows me to
 - 🎮 I love RPG games and multiplayer games, as long as I have fun (no Shooter 🤮)
 - ⌨️ I code small programms in Python and sites in HTML/CSS when I don't have to code for school
