@@ -1,8 +1,10 @@
 ### Hey ! 👋 Welcome to my profile !
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif" width="100"/>
 </div>
 <br>
+<!--
 <div id="txt" align="center">
   <p><em>FOLLOW ME !</em> 😉</p>
 </div>
@@ -22,14 +24,14 @@
 <div id="visits" align="center">
   <img src="https://komarev.com/ghpvc/?username=drudru18&style=flat-square&color=blue" alt=""/>
 </div>
+-->
 
 ---
-
 ### 👨‍💻 About me: <br>
-Third year student at the University of Louvain-la-Neuve (UCLouvain) in Computer Science.
+Student rolled in cybersecurity and network & systems master at UCLouvain.
 - 🎵 I make music when the time allows me to
-- 🎮 I love RPG games and multiplayer games, as long as I have fun (no Shooter 🤮)
-- ⌨️ I code small programms in Python and sites in HTML/CSS when I don't have to code for school
+- 🎮 I love RPG games and multiplayer games, as long as I have fun
+- ⌨️ I code small programms in Python, sometimes websites in HTML/CSS/Javascript when I don't have to code for school or bash programs
 - 🌴 I love traveling (a lot)
 
 ---
@@ -47,8 +49,9 @@ Third year student at the University of Louvain-la-Neuve (UCLouvain) in Computer
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-plain.svg" title="Erlang" alt="Erlang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -58,9 +61,6 @@ Third year student at the University of Louvain-la-Neuve (UCLouvain) in Computer
 
 ### 🔥 My Stats:
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=drudru18 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drudru18&theme=onedark_duo&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD3F24&dates=DDDDDD&currStreakNum=1EFF00&currStreakLabel=1EFF00)](https://git.io/streak-stats) &nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=drudru18&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drudru18&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drudru18&show_icons=true&theme=onedark)
 ---
