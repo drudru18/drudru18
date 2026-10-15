@@ -1,4 +1,4 @@
-### Hey ! 👋 Welcome to my profile !
+# Hey ! 👋 Welcome to my profile !
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif" width="100"/>
@@ -31,14 +31,14 @@
 Student rolled in cybersecurity and network & systems master at UCLouvain.
 - 🎵 I make music when the time allows me to
 - 🎮 I love RPG games and multiplayer games, as long as I have fun
-- ⌨️ I code small programms in Python, sometimes websites in HTML/CSS/Javascript when I don't have to code for school or bash programs
-- 🌴 I love traveling (a lot)
+- ⌨️ I code diverse small programs that are useful to me (maybe making them open source one day, who knows)
+- 🌴 I love traveling
 
 ---
 
-### 🛠️ Currently learning: <br>
+### 🛠️ Learned to use: <br>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ Student rolled in cybersecurity and network & systems master at UCLouvain.
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-plain.svg" title="Erlang" alt="Erlang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
