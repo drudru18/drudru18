@@ -28,7 +28,7 @@
 
 ---
 ### 👨‍💻 About me: <br>
-Student rolled in cybersecurity and network & systems master at UCLouvain.
+Student enrolled in cybersecurity and network & systems master at UCLouvain.
 - 🎵 I make music when the time allows me to
 - 🎮 I love RPG games and multiplayer games, as long as I have fun
 - ⌨️ I code diverse small programs that are useful to me (maybe making them open source one day, who knows)
