@@ -1,7 +1,7 @@
 # Hey ! 👋 Welcome to my profile !
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif](http://pf.gy/fd3818)" width="800"/>
+  <img src="https://www.photofunky.net/output/image/f/d/3/8/fd3818/photofunky.gif"/>
 </div>
 <br>
 
