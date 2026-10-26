@@ -1,9 +1,6 @@
-# Hey ! 👋 Welcome to my profile !
-
 <div id="header" align="center">
   <img src="https://www.photofunky.net/output/image/f/d/3/8/fd3818/photofunky.gif"/>
 </div>
-<br>
 
 ---
 ### 👨‍💻 About me: <br>
